@@ -1,0 +1,61 @@
+<html>
+   <body>
+   {% if messages %}
+    <ul class="messages">
+        {% for message in messages %}
+        <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
+        {% endfor %}
+
+    </ul>
+    {% endif %}
+      <form name = "form" action = "{% url "fire" %}"
+         method = "POST" >{% csrf_token %}
+
+         <div style = "max-width:90%;">
+            <center>
+               <input type = "text" style = "margin-left:10%;width:80%;"
+                  placeholder = "Enter query" name = "query" />
+            </center>
+         </div>
+
+         <br>
+
+         <div style = "max-width:90%;">
+            <center>
+
+               <button style = "border:0px; background-color:#4285F4;
+                  height:35px; margin-left:10%;width:80%;" type = "submit"
+                  value = "Login" >
+                  <strong>Run Query</strong>
+               </button>
+
+            </center>
+         </div>
+
+      </form>
+      <div style = "margin-left:10%;width:70%;">
+              Entered Query: <strong>{{query}}</strong>
+
+      </div>
+   <script src="//unpkg.com/3d-force-graph"></script>
+  <div id="3d-graph"></div>
+
+  <script>
+    // Random tree
+    const NODES = 300;
+    const GROUPS = 12;
+    {%load static %}
+    var j_path = "{% static "sample.json" %}";
+
+    const gData =fetch(j_path);
+    console.log(gData)
+    const Graph = ForceGraph3D()
+      (document.getElementById('3d-graph'))
+        .nodeAutoColorBy('group')
+        .linkAutoColorBy(d => gData.nodes[d.source].group)
+        .linkOpacity(0.5)
+        .graphData(gData);
+  </script>
+</body>
+
+</html>

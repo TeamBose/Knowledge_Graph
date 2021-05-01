@@ -1,0 +1,90 @@
+{
+    "nodes": [
+        {
+            "id": 1028,
+            "group": "Bidder",
+            "name": "Shineco",
+            "industry": "Biological health products",
+            "type": "Public",
+            "url": "https://verify.wiki/wiki/Shineco",
+            "website": null
+        },
+        {
+            "id": 1029,
+            "group": "Target",
+            "name": "Changzhou Biowin Pharmaceutical",
+            "industry": "Pharmaceuticals",
+            "type": "Joint venture",
+            "url": "https://en.wikipedia.org/wiki/Guangzhou_Pharmaceuticals",
+            "website": "www.gzmpc.com/index_en.php"
+        },
+        {
+            "id": 1655,
+            "group": "Country",
+            "name": "China"
+        },
+        {
+            "id": 800,
+            "group": "Bidder",
+            "name": "JZZ Technologies",
+            "industry": "Information technology",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/VanceInfo",
+            "website": "vanceinfo.com"
+        },
+        {
+            "id": 801,
+            "group": "Target",
+            "name": "Senior Lifestyle Media",
+            "industry": "Assisted Living Retirement community Independent senior living",
+            "type": "Public limited company",
+            "url": "https://en.wikipedia.org/wiki/Antara_Senior_Living",
+            "website": "antaraseniorliving.com"
+        },
+        {
+            "id": 1633,
+            "group": "Country",
+            "name": "India"
+        }
+    ],
+    "links": [
+        {
+            "id": 563,
+            "group": "RELATION",
+            "source": 1028,
+            "target": 1029,
+            "news": "Shineco proposes to acquire 73.7% interest in Changzhou Biowin Pharmaceutical"
+        },
+        {
+            "id": 1293,
+            "group": "BASED_IN",
+            "source": 1028,
+            "target": 1655
+        },
+        {
+            "id": 1904,
+            "group": "BASED_IN",
+            "source": 1029,
+            "target": 1655
+        },
+        {
+            "id": 443,
+            "group": "RELATION",
+            "source": 800,
+            "target": 801,
+            "news": "JZZ Technologies acquired Senior Lifestyle Media"
+        },
+        {
+            "id": 1430,
+            "group": "BASED_IN",
+            "source": 800,
+            "target": 1655
+        },
+        {
+            "id": 2080,
+            "group": "BASED_IN",
+            "source": 801,
+            "target": 1633
+        }
+    ]
+}
