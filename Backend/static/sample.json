@@ -1,90 +1,1771 @@
 {
     "nodes": [
         {
-            "id": 1028,
+            "id": 620,
             "group": "Bidder",
-            "name": "Shineco",
-            "industry": "Biological health products",
+            "name": "V-Guard",
+            "industry": "NA",
             "type": "Public",
-            "url": "https://verify.wiki/wiki/Shineco",
+            "url": "https://en.wikipedia.org/wiki/V-Guard",
+            "website": "www.vguard.in"
+        },
+        {
+            "id": 621,
+            "group": "Target",
+            "name": "GUTS",
+            "industry": "consumer goods",
+            "type": "Public company (BSE:531642)(NSE:MARICO)",
+            "url": "https://en.wikipedia.org/wiki/Guts",
+            "website": "www.marico.com"
+        },
+        {
+            "id": 1635,
+            "group": "Country",
+            "name": "india"
+        },
+        {
+            "id": 158,
+            "group": "Bidder",
+            "name": "Vedanta",
+            "industry": "internet",
+            "type": "of sitePrivate",
+            "url": "https://en.wikipedia.org/wiki/Vedanta",
             "website": null
         },
         {
-            "id": 1029,
+            "id": 159,
             "group": "Target",
-            "name": "Changzhou Biowin Pharmaceutical",
-            "industry": "Pharmaceuticals",
-            "type": "Joint venture",
-            "url": "https://en.wikipedia.org/wiki/Guangzhou_Pharmaceuticals",
-            "website": "www.gzmpc.com/index_en.php"
+            "name": "Cairn India",
+            "industry": "oil and gas",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Cairn_India",
+            "website": "www.cairnindia.com"
         },
         {
-            "id": 1655,
-            "group": "Country",
-            "name": "China"
-        },
-        {
-            "id": 800,
+            "id": 173,
             "group": "Bidder",
-            "name": "JZZ Technologies",
-            "industry": "Information technology",
-            "type": "Public",
-            "url": "https://en.wikipedia.org/wiki/VanceInfo",
-            "website": "vanceinfo.com"
+            "name": "Cairn India",
+            "industry": "oil and gas",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Cairn_India",
+            "website": "www.cairnindia.com"
         },
         {
-            "id": 801,
+            "id": 174,
             "group": "Target",
-            "name": "Senior Lifestyle Media",
-            "industry": "Assisted Living Retirement community Independent senior living",
-            "type": "Public limited company",
-            "url": "https://en.wikipedia.org/wiki/Antara_Senior_Living",
-            "website": "antaraseniorliving.com"
+            "name": "Vedanta",
+            "industry": "internet",
+            "type": "of sitePrivate",
+            "url": "https://en.wikipedia.org/wiki/Vedanta",
+            "website": null
         },
         {
-            "id": 1633,
+            "id": 640,
+            "group": "Bidder",
+            "name": "RIL",
+            "industry": "conglomerate",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Reliance_Industries",
+            "website": "www.ril.com"
+        },
+        {
+            "id": 641,
+            "group": "Target",
+            "name": "Balaji Telefilms",
+            "industry": "television",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Balaji_Telefilms",
+            "website": "Balaji Telefilms"
+        },
+        {
+            "id": 535,
+            "group": "Bidder",
+            "name": "Essel Propack",
+            "industry": "tube packaging",
+            "type": "Publicly traded company",
+            "url": "https://en.wikipedia.org/wiki/Essel_Propack",
+            "website": "http://www.esselpropack.com"
+        },
+        {
+            "id": 536,
+            "group": "Target",
+            "name": "Essel Deutschland",
+            "industry": "news media",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Essel_Group",
+            "website": "www.zeemedia.in"
+        },
+        {
+            "id": 303,
+            "group": "Bidder",
+            "name": "Reliance Infrastructure",
+            "industry": "solar energy",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Reliance_Infrastructure",
+            "website": "www.rinfra.com"
+        },
+        {
+            "id": 57,
+            "group": "Target",
+            "name": "Pipavav Defence",
+            "industry": "chemical industry",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Reliance_Naval_and_Engineering_Limited",
+            "website": "www.rnaval.co.in"
+        },
+        {
+            "id": 572,
+            "group": "Bidder",
+            "name": "Dabur",
+            "industry": "consumer goods",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Dabur",
+            "website": null
+        },
+        {
+            "id": 573,
+            "group": "Target",
+            "name": "CTL Group",
+            "industry": "financial services and insurance",
+            "type": "Expert Engineering Materials Science Consulting firm",
+            "url": "https://en.wikipedia.org/wiki/CTLGroup",
+            "website": "ctlgroup.com"
+        },
+        {
+            "id": 1636,
             "group": "Country",
-            "name": "India"
+            "name": "united states"
+        },
+        {
+            "id": 152,
+            "group": "Bidder",
+            "name": "Natco Organics",
+            "industry": "pharmaceutical",
+            "type": "Public company",
+            "url": "https://en.wikipedia.org/wiki/Natco_Pharma",
+            "website": "natcopharma.co.in"
+        },
+        {
+            "id": 153,
+            "group": "Target",
+            "name": "Co",
+            "industry": "pharmaceutical",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Co",
+            "website": "www.kelltontech.com"
+        },
+        {
+            "id": 1665,
+            "group": "Country",
+            "name": "uganda"
+        },
+        {
+            "id": 237,
+            "group": "Bidder",
+            "name": "Lincoln Pharma",
+            "industry": "conglomerate",
+            "type": "Private",
+            "url": "https://www.lincolnpharma.com/",
+            "website": "www.lyondellbasell.com"
+        },
+        {
+            "id": 238,
+            "group": "Target",
+            "name": "Lincoln Parenteral",
+            "industry": "engineering",
+            "type": "Public",
+            "url": "https://www.lincolnpharma.com/",
+            "website": "www.airtel.com"
+        },
+        {
+            "id": 437,
+            "group": "Bidder",
+            "name": "Sterling Holidays",
+            "industry": "hospitality tourism",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Sterling_Holiday_Resorts_Limited",
+            "website": "www.sterlingholidays.com"
+        },
+        {
+            "id": 438,
+            "group": "Target",
+            "name": "Nature Trails",
+            "industry": "telecommunication",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Educational_trail",
+            "website": "www.tatacommunications.com"
+        },
+        {
+            "id": 420,
+            "group": "Bidder",
+            "name": "Zopper",
+            "industry": "edtech distance education",
+            "type": "Private",
+            "url": "https://en.everybodywiki.com/Toppr",
+            "website": "www.toppr.com"
+        },
+        {
+            "id": 421,
+            "group": "Target",
+            "name": "EasyPOS",
+            "industry": "computer software",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/POS_Solutions",
+            "website": "www.possolutions.com.au"
+        },
+        {
+            "id": 1646,
+            "group": "Country",
+            "name": "australia"
+        },
+        {
+            "id": 137,
+            "group": "Bidder",
+            "name": "Livspace",
+            "industry": "interior design",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Livspace",
+            "website": null
+        },
+        {
+            "id": 279,
+            "group": "Target",
+            "name": "YoFloor",
+            "industry": "interior design",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Livspace",
+            "website": null
+        },
+        {
+            "id": 138,
+            "group": "Target",
+            "name": "Dwll.in",
+            "industry": "medical device biotechnology",
+            "type": "Subsidiary",
+            "url": "https://en.wikipedia.org/wiki/Dell",
+            "website": "www.dell.com"
+        },
+        {
+            "id": 81,
+            "group": "Bidder",
+            "name": "Tiger Global Management",
+            "industry": "automotive",
+            "type": "Startup",
+            "url": "https://en.wikipedia.org/wiki/Tiger_Global_Management",
+            "website": "cartrade.com"
+        },
+        {
+            "id": 82,
+            "group": "Target",
+            "name": "Justdial",
+            "industry": "consumer services",
+            "type": "of businessPublic",
+            "url": "https://en.wikipedia.org/wiki/Justdial",
+            "website": "www.xolo.in"
+        },
+        {
+            "id": 220,
+            "group": "Bidder",
+            "name": "ZEEL",
+            "industry": "news media",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Essel_Group",
+            "website": "www.zeemedia.in"
+        },
+        {
+            "id": 221,
+            "group": "Target",
+            "name": "Sarthak Entertainment",
+            "industry": "television production",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Optimystix_Entertainment",
+            "website": "optimystix.tv"
+        },
+        {
+            "id": 52,
+            "group": "Bidder",
+            "name": "Micromax",
+            "industry": "commercial property",
+            "type": "of siteE-commerce",
+            "url": "https://en.wikipedia.org/wiki/Micromax",
+            "website": "lanxess.com"
+        },
+        {
+            "id": 53,
+            "group": "Target",
+            "name": "Alibaba",
+            "industry": "technology company",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Alibaba",
+            "website": "AlibabaGroup.com"
+        },
+        {
+            "id": 1656,
+            "group": "Country",
+            "name": "cayman islands"
+        },
+        {
+            "id": 218,
+            "group": "Bidder",
+            "name": "Mindtree",
+            "industry": "economic consulting",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Mindtree",
+            "website": "www.mindtree.com"
+        },
+        {
+            "id": 414,
+            "group": "Target",
+            "name": "Magnet",
+            "industry": "computer software",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Magnet",
+            "website": "www.citrix.com/products/citrix-cloud"
+        },
+        {
+            "id": 219,
+            "group": "Target",
+            "name": "Bluefin Solutions",
+            "industry": "economic consulting",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Mindtree",
+            "website": "www.mindtree.com"
+        },
+        {
+            "id": 144,
+            "group": "Bidder",
+            "name": "Strides Arcolab",
+            "industry": "pharmaceutical",
+            "type": "MNC (several JVs and subsidiaries)",
+            "url": "https://en.wikipedia.org/wiki/Strides_Arcolab",
+            "website": "www.strides.com"
+        },
+        {
+            "id": 321,
+            "group": "Target",
+            "name": "7 brands from Johnson & Johnson",
+            "industry": "retail health care",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Johnson_%26_Johnson",
+            "website": "www.jnj.com"
+        },
+        {
+            "id": 145,
+            "group": "Target",
+            "name": "Aspens generic pharma",
+            "industry": "chemical industry",
+            "type": "Public (JSE: APN)JSE Limited",
+            "url": "https://en.wikipedia.org/wiki/Aspen_Pharmacare",
+            "website": "www.aspenpharma.com"
+        },
+        {
+            "id": 1661,
+            "group": "Country",
+            "name": "south africa"
+        },
+        {
+            "id": 548,
+            "group": "Bidder",
+            "name": "Pincon Spirit",
+            "industry": "alcoholic beverages",
+            "type": "Public[1]",
+            "url": "https://en.wikipedia.org/wiki/Pincon_Spirit_Limited",
+            "website": "pinconspirit.in"
+        },
+        {
+            "id": 549,
+            "group": "Target",
+            "name": "Bacchus Enterprises",
+            "industry": "alcoholic beverages",
+            "type": "Public[1]",
+            "url": "https://en.wikipedia.org/wiki/Pincon_Spirit_Limited",
+            "website": "pinconspirit.in"
+        },
+        {
+            "id": 58,
+            "group": "Bidder",
+            "name": "Flipkart",
+            "industry": "NA",
+            "type": "of businessPrivate",
+            "url": "https://en.wikipedia.org/wiki/Flipkart",
+            "website": "s Jabong Myntra PhonePe AppIterate Mime360 Chakpak LetsBuy TinyStep"
+        },
+        {
+            "id": 351,
+            "group": "Target",
+            "name": "MapmyIndia",
+            "industry": "application software",
+            "type": "of siteIoT Navigation Maps GIS Services",
+            "url": "https://en.wikipedia.org/wiki/MapmyIndia",
+            "website": null
+        },
+        {
+            "id": 59,
+            "group": "Target",
+            "name": "AdIQuity",
+            "industry": "economic consulting",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Aditi_Technologies",
+            "website": "aditi.com"
+        },
+        {
+            "id": 1285,
+            "group": "Bidder",
+            "name": "Mahindra & Mahindra",
+            "industry": "automotive",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Mahindra_&_Mahindra",
+            "website": "www.mahindra.com"
+        },
+        {
+            "id": 1286,
+            "group": "Target",
+            "name": "Mahindra two wheelers unit",
+            "industry": "motorcycle",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Mahindra_Two_Wheelers",
+            "website": "mahindratwowheelers.com"
+        },
+        {
+            "id": 642,
+            "group": "Bidder",
+            "name": "Marico",
+            "industry": "consumer goods",
+            "type": "Public company (BSE:531642)(NSE:MARICO)",
+            "url": "https://en.wikipedia.org/wiki/Marico",
+            "website": "www.marico.com"
+        },
+        {
+            "id": 643,
+            "group": "Target",
+            "name": "Isoplus",
+            "industry": "consumer goods",
+            "type": "Public company (BSE:531642)(NSE:MARICO)",
+            "url": "https://en.wikipedia.org/wiki/Marico",
+            "website": "www.marico.com"
+        },
+        {
+            "id": 1291,
+            "group": "Bidder",
+            "name": "Cox & Kings",
+            "industry": "travel tourism",
+            "type": "Public limited company",
+            "url": "https://en.wikipedia.org/wiki/Cox_&_Kings",
+            "website": "www.coxandkings.com"
+        },
+        {
+            "id": 1292,
+            "group": "Target",
+            "name": "LateRooms",
+            "industry": "travel",
+            "type": "Subsidiary",
+            "url": "https://en.wikipedia.org/wiki/LateRooms.com",
+            "website": "www.virtusa.com"
+        },
+        {
+            "id": 1649,
+            "group": "Country",
+            "name": "united kingdom"
+        },
+        {
+            "id": 62,
+            "group": "Bidder",
+            "name": "Star India",
+            "industry": "mass media",
+            "type": "Subsidiary",
+            "url": "https://en.wikipedia.org/wiki/Star_India",
+            "website": "startv.com"
+        },
+        {
+            "id": 63,
+            "group": "Target",
+            "name": "Indian Express Group",
+            "industry": "media",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Indian_Express_Group",
+            "website": "The Indian Express"
+        },
+        {
+            "id": 214,
+            "group": "Bidder",
+            "name": "Thomas Cook",
+            "industry": "news media",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Thomas_Cook",
+            "website": "www.zeemedia.in"
+        },
+        {
+            "id": 215,
+            "group": "Target",
+            "name": "Sterling Holiday",
+            "industry": "hospitality tourism",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Sterling_Holiday_Resorts_Limited",
+            "website": "www.sterlingholidays.com"
+        },
+        {
+            "id": 338,
+            "group": "Target",
+            "name": "Kuoni Travel",
+            "industry": "travel tourism",
+            "type": "Aktiengesellschaft",
+            "url": "https://en.wikipedia.org/wiki/Kuoni_Travel",
+            "website": "www.kuoni.com"
+        },
+        {
+            "id": 1638,
+            "group": "Country",
+            "name": "switzerland"
+        },
+        {
+            "id": 364,
+            "group": "Bidder",
+            "name": "Spencers Retail",
+            "industry": "retail",
+            "type": "Subsidiary",
+            "url": "https://en.wikipedia.org/wiki/Spencer%27s_Retail",
+            "website": "https://www.spencers.in"
+        },
+        {
+            "id": 365,
+            "group": "Target",
+            "name": "Omnipresent Retail",
+            "industry": "retail",
+            "type": "Subsidiary",
+            "url": "https://en.wikipedia.org/wiki/Spencer%27s_Retail",
+            "website": "https://www.spencers.in"
+        },
+        {
+            "id": 20,
+            "group": "Bidder",
+            "name": "MRF",
+            "industry": "television production",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/MRF_(company)",
+            "website": "mrftyres.com"
+        },
+        {
+            "id": 21,
+            "group": "Target",
+            "name": "Kesorams tyre unit",
+            "industry": "online food ordering",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Kesoram_Industries_Ltd.",
+            "website": "www.kesocorp.com"
+        },
+        {
+            "id": 594,
+            "group": "Bidder",
+            "name": "Claris Lifesciences",
+            "industry": "chemical industry",
+            "type": "Public (JSE: APN)JSE Limited",
+            "url": "https://www.clarislifesciences.com/",
+            "website": "www.aspenpharma.com"
+        },
+        {
+            "id": 595,
+            "group": "Target",
+            "name": "Baxter",
+            "industry": "oil and gas",
+            "type": "Subsidiary",
+            "url": "https://en.wikipedia.org/wiki/Baxter",
+            "website": "www.hindustanpetroleum.com"
+        },
+        {
+            "id": 581,
+            "group": "Bidder",
+            "name": "Airtel",
+            "industry": "telecommunication",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Airtel",
+            "website": "www.airtel.com"
+        },
+        {
+            "id": 582,
+            "group": "Target",
+            "name": "Axiata",
+            "industry": "telecommunication",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Axiata",
+            "website": "axiata.com"
+        },
+        {
+            "id": 613,
+            "group": "Bidder",
+            "name": "Quick Heal",
+            "industry": "computer software",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Quick_Heal",
+            "website": "www.quickheal.com"
+        },
+        {
+            "id": 614,
+            "group": "Target",
+            "name": "Smartalyse Technologies",
+            "industry": "it services",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Zensar_Technologies",
+            "website": "www.zensar.com"
+        },
+        {
+            "id": 403,
+            "group": "Bidder",
+            "name": "Camlin Fine",
+            "industry": "speciality chemicals",
+            "type": "Public (BSE:532834)",
+            "url": "https://en.wikipedia.org/wiki/Camlin_Fine_Sciences",
+            "website": "www.camlinfs.com"
+        },
+        {
+            "id": 404,
+            "group": "Target",
+            "name": "Dresen Quimica",
+            "industry": "speciality chemicals",
+            "type": "Public (BSE:532834)",
+            "url": "https://en.wikipedia.org/wiki/Camlin_Fine_Sciences",
+            "website": "www.camlinfs.com"
+        },
+        {
+            "id": 48,
+            "group": "Bidder",
+            "name": "DIAL",
+            "industry": "consumer goods",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Dial",
+            "website": "godrejcp.com"
+        },
+        {
+            "id": 49,
+            "group": "Target",
+            "name": "Delhi Cargo Service",
+            "industry": "pharmacy",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Tushar_Jani",
+            "website": "godrejcp.com"
+        },
+        {
+            "id": 251,
+            "group": "Bidder",
+            "name": "Carnival",
+            "industry": "real estate",
+            "type": "sWedding-related Bachelor party Bachelorette party Bridal shower Engagement party Wedding reception Banquets State banquet Ball Debutante ball Hunt ball Symposium House parties Family reunion Cocktail party Housewarming party Sleepover LAN party Political houseparty Rent party Public partiesFestivals Holidays Spring break Arts festival Film awards seasons Religious festival Christmas Carnival Feasts Food festival Harvest festival See also: Season (society) Fairs World's fair State fair County fair Trade fair  Picnic Block party Subway party Tailgate party  Children's party Baby shower Class reunion Costume party Masqerade party Drag party Toga party Naked party Crayfish party Cuddle party Dance party Prom Homecoming Foam party Hurricane party Kitty party Pamper party Pizza party Quiet party Stop light party Tea party",
+            "url": "https://en.wikipedia.org/wiki/Carnival",
+            "website": null
+        },
+        {
+            "id": 252,
+            "group": "Target",
+            "name": "Leela Infopark",
+            "industry": "information technology services",
+            "type": "Government Owned",
+            "url": "https://en.wikipedia.org/wiki/InfoPark,_Kochi",
+            "website": "www.infopark.in"
+        },
+        {
+            "id": 1361,
+            "group": "Bidder",
+            "name": "UBS",
+            "industry": "conglomerate",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Ubs",
+            "website": "www.bharti.com"
+        },
+        {
+            "id": 1362,
+            "group": "Target",
+            "name": "Credit Suisse",
+            "industry": "financial services",
+            "type": "Public (Aktiengesellschaft)",
+            "url": "https://en.wikipedia.org/wiki/Credit_Suisse",
+            "website": "www.credit-suisse.com"
+        },
+        {
+            "id": 119,
+            "group": "Bidder",
+            "name": "Bharti Retail",
+            "industry": "conglomerate",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Bharti_Enterprises",
+            "website": "www.bharti.com"
+        },
+        {
+            "id": 120,
+            "group": "Target",
+            "name": "Future Retail",
+            "industry": "insurance & finance",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Future_Group",
+            "website": "www.futuregroup.in"
+        },
+        {
+            "id": 56,
+            "group": "Bidder",
+            "name": "Reliance Infra",
+            "industry": "solar energy",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Reliance_Infra",
+            "website": "www.rinfra.com"
+        },
+        {
+            "id": 243,
+            "group": "Bidder",
+            "name": "Yes Bank",
+            "industry": "financial services",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Yes_Bank",
+            "website": "www.yesbank.in"
+        },
+        {
+            "id": 419,
+            "group": "Target",
+            "name": "IiAS",
+            "industry": "finance",
+            "type": "Public Company",
+            "url": "https://en.wikipedia.org/wiki/Institutional_Investor_Advisory_Services",
+            "website": "iiasadvisory.com"
+        },
+        {
+            "id": 244,
+            "group": "Target",
+            "name": "iOrderFresh",
+            "industry": "NA",
+            "type": "of siteE-commerce",
+            "url": "https://en.wikipedia.org/wiki/Moglix",
+            "website": null
+        },
+        {
+            "id": 1652,
+            "group": "Country",
+            "name": "singapore"
+        },
+        {
+            "id": 60,
+            "group": "Bidder",
+            "name": "IDBI Bank",
+            "industry": "banking",
+            "type": "Private(Regulatory purpose only)[1]",
+            "url": "https://en.wikipedia.org/wiki/IDBI_Bank",
+            "website": "www.idbibank.in"
+        },
+        {
+            "id": 61,
+            "group": "Target",
+            "name": "NSE",
+            "industry": "diversified investments",
+            "type": "s of stocks Common stock Golden share Preferred stock Restricted stock Tracking stock",
+            "url": "https://en.wikipedia.org/wiki/National_Stock_Exchange_of_India",
+            "website": "www.nseindia.com"
+        },
+        {
+            "id": 230,
+            "group": "Bidder",
+            "name": "IndusInd Bank",
+            "industry": "financial services",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/IndusInd_Bank",
+            "website": "www.indusind.com"
+        },
+        {
+            "id": 231,
+            "group": "Target",
+            "name": "Diamond & Jewellery Financing",
+            "industry": "manufacturing and services",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Hari_Krishna_Exports",
+            "website": "www.hk.co"
+        },
+        {
+            "id": 452,
+            "group": "Bidder",
+            "name": "Acrysil",
+            "industry": "NA",
+            "type": "Public company",
+            "url": "https://en.wikipedia.org/wiki/CRISIL",
+            "website": null
+        },
+        {
+            "id": 453,
+            "group": "Target",
+            "name": "Homestyle Products",
+            "industry": "electrical engineering",
+            "type": "Limited Company",
+            "url": "https://en.wikipedia.org/wiki/Franke_(company)",
+            "website": "www.franke.com"
+        },
+        {
+            "id": 26,
+            "group": "Bidder",
+            "name": "Zomato",
+            "industry": "online food ordering",
+            "type": "of businessPrivate",
+            "url": "https://en.wikipedia.org/wiki/Zomato",
+            "website": "mrftyres.com"
+        },
+        {
+            "id": 242,
+            "group": "Target",
+            "name": "Urbanspoon",
+            "industry": "online food ordering",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Urbanspoon",
+            "website": "www.kesocorp.com"
+        },
+        {
+            "id": 97,
+            "group": "Target",
+            "name": "MaplePOS",
+            "industry": "online food ordering",
+            "type": "of businessPrivate",
+            "url": "https://en.wikipedia.org/wiki/Zomato",
+            "website": "svb.com"
+        },
+        {
+            "id": 27,
+            "group": "Target",
+            "name": "Mekanist",
+            "industry": "online food ordering",
+            "type": "of businessPrivate",
+            "url": "https://en.wikipedia.org/wiki/Zomato",
+            "website": null
+        },
+        {
+            "id": 304,
+            "group": "Bidder",
+            "name": "Mebelkart",
+            "industry": "home & living online shopping",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Mebelkart",
+            "website": "mebelkart.com"
+        },
+        {
+            "id": 305,
+            "group": "Target",
+            "name": "53central.com",
+            "industry": "information technology",
+            "type": "Private limited company",
+            "url": "https://en.wikipedia.org/wiki/KMD_(company)",
+            "website": "kmd.dk"
+        },
+        {
+            "id": 1664,
+            "group": "Country",
+            "name": "denmark"
+        },
+        {
+            "id": 677,
+            "group": "Bidder",
+            "name": "Adani Transmission",
+            "industry": "conglomerate",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Adani_Group",
+            "website": "www.adani.com"
+        },
+        {
+            "id": 678,
+            "group": "Target",
+            "name": "HPTSL",
+            "industry": "oil and gas",
+            "type": "Subsidiary",
+            "url": "https://en.wikipedia.org/wiki/Hindustan_Petroleum",
+            "website": "www.hindustanpetroleum.com"
         }
     ],
     "links": [
         {
-            "id": 563,
+            "id": 340,
             "group": "RELATION",
-            "source": 1028,
-            "target": 1029,
-            "news": "Shineco proposes to acquire 73.7% interest in Changzhou Biowin Pharmaceutical"
+            "source": 620,
+            "target": 621,
+            "news": "V-Guard acquires 49.43% stake in GUTS Electro-Mech"
         },
         {
-            "id": 1293,
+            "id": 1147,
             "group": "BASED_IN",
-            "source": 1028,
-            "target": 1655
+            "source": 620,
+            "target": 1635
         },
         {
-            "id": 1904,
+            "id": 1733,
             "group": "BASED_IN",
-            "source": 1029,
-            "target": 1655
+            "source": 621,
+            "target": 1635
         },
         {
-            "id": 443,
+            "id": 85,
             "group": "RELATION",
-            "source": 800,
-            "target": 801,
-            "news": "JZZ Technologies acquired Senior Lifestyle Media"
+            "source": 158,
+            "target": 159,
+            "news": "Vedanta to buy additional 5.33% stake in Cairn India: Reports"
         },
         {
-            "id": 1430,
+            "id": 1457,
             "group": "BASED_IN",
-            "source": 800,
-            "target": 1655
+            "source": 158,
+            "target": 1635
         },
         {
-            "id": 2080,
+            "id": 899,
             "group": "BASED_IN",
-            "source": 801,
-            "target": 1633
+            "source": 159,
+            "target": 1635
+        },
+        {
+            "id": 93,
+            "group": "RELATION",
+            "source": 173,
+            "target": 174,
+            "news": "Will Vedanta-Cairn India merger be announced on Sunday?"
+        },
+        {
+            "id": 900,
+            "group": "BASED_IN",
+            "source": 173,
+            "target": 1635
+        },
+        {
+            "id": 1458,
+            "group": "BASED_IN",
+            "source": 174,
+            "target": 1635
+        },
+        {
+            "id": 350,
+            "group": "RELATION",
+            "source": 640,
+            "target": 641,
+            "news": "RIL to buy 24.92% stake in Balaji Telefilms"
+        },
+        {
+            "id": 1152,
+            "group": "BASED_IN",
+            "source": 640,
+            "target": 1635
+        },
+        {
+            "id": 1737,
+            "group": "BASED_IN",
+            "source": 641,
+            "target": 1635
+        },
+        {
+            "id": 294,
+            "group": "RELATION",
+            "source": 535,
+            "target": 536,
+            "news": "Essel Propack to acquire 100% stake in Essel Deutschland Germany"
+        },
+        {
+            "id": 1181,
+            "group": "BASED_IN",
+            "source": 535,
+            "target": 1635
+        },
+        {
+            "id": 1773,
+            "group": "BASED_IN",
+            "source": 536,
+            "target": 1635
+        },
+        {
+            "id": 165,
+            "group": "RELATION",
+            "source": 303,
+            "target": 57,
+            "news": "Reliance Infrastructure proceeds to complete acquisition of Pipavav Defence"
+        },
+        {
+            "id": 1221,
+            "group": "BASED_IN",
+            "source": 303,
+            "target": 1635
+        },
+        {
+            "id": 1494,
+            "group": "BASED_IN",
+            "source": 57,
+            "target": 1635
+        },
+        {
+            "id": 313,
+            "group": "RELATION",
+            "source": 572,
+            "target": 573,
+            "news": "Dabur India to buy personal care business of CTL Group"
+        },
+        {
+            "id": 1171,
+            "group": "BASED_IN",
+            "source": 572,
+            "target": 1635
+        },
+        {
+            "id": 1764,
+            "group": "BASED_IN",
+            "source": 573,
+            "target": 1636
+        },
+        {
+            "id": 82,
+            "group": "RELATION",
+            "source": 152,
+            "target": 153,
+            "news": "Natco Pharma Board approves merger of Natco Organics with Co"
+        },
+        {
+            "id": 1092,
+            "group": "BASED_IN",
+            "source": 152,
+            "target": 1635
+        },
+        {
+            "id": 1678,
+            "group": "BASED_IN",
+            "source": 153,
+            "target": 1665
+        },
+        {
+            "id": 128,
+            "group": "RELATION",
+            "source": 237,
+            "target": 238,
+            "news": "Lincoln Pharma acquire stake in Lincoln Parenteral to add injectable"
+        },
+        {
+            "id": 1080,
+            "group": "BASED_IN",
+            "source": 237,
+            "target": 1635
+        },
+        {
+            "id": 1665,
+            "group": "BASED_IN",
+            "source": 238,
+            "target": 1635
+        },
+        {
+            "id": 239,
+            "group": "RELATION",
+            "source": 437,
+            "target": 438,
+            "news": "Sterling Holidays to acquire Nature Trails"
+        },
+        {
+            "id": 1225,
+            "group": "BASED_IN",
+            "source": 437,
+            "target": 1635
+        },
+        {
+            "id": 1829,
+            "group": "BASED_IN",
+            "source": 438,
+            "target": 1635
+        },
+        {
+            "id": 229,
+            "group": "RELATION",
+            "source": 420,
+            "target": 421,
+            "news": "Zopper acquires a cloud-based Retail POS company EasyPOS"
+        },
+        {
+            "id": 1198,
+            "group": "BASED_IN",
+            "source": 420,
+            "target": 1635
+        },
+        {
+            "id": 1798,
+            "group": "BASED_IN",
+            "source": 421,
+            "target": 1646
+        },
+        {
+            "id": 151,
+            "group": "RELATION",
+            "source": 137,
+            "target": 279,
+            "news": "Livspace acquires YoFloor"
+        },
+        {
+            "id": 914,
+            "group": "BASED_IN",
+            "source": 137,
+            "target": 1635
+        },
+        {
+            "id": 1834,
+            "group": "BASED_IN",
+            "source": 279,
+            "target": 1635
+        },
+        {
+            "id": 74,
+            "group": "RELATION",
+            "source": 137,
+            "target": 138,
+            "news": "Livspace acquires Dwll.in"
+        },
+        {
+            "id": 1471,
+            "group": "BASED_IN",
+            "source": 138,
+            "target": 1636
+        },
+        {
+            "id": 43,
+            "group": "RELATION",
+            "source": 81,
+            "target": 82,
+            "news": "Tiger Global Management sells 3.4% stake in Justdial"
+        },
+        {
+            "id": 938,
+            "group": "BASED_IN",
+            "source": 81,
+            "target": 1635
+        },
+        {
+            "id": 1500,
+            "group": "BASED_IN",
+            "source": 82,
+            "target": 1635
+        },
+        {
+            "id": 118,
+            "group": "RELATION",
+            "source": 220,
+            "target": 221,
+            "news": "ZEEL acquires Sarthak Entertainment"
+        },
+        {
+            "id": 1244,
+            "group": "BASED_IN",
+            "source": 220,
+            "target": 1635
+        },
+        {
+            "id": 1853,
+            "group": "BASED_IN",
+            "source": 221,
+            "target": 1635
+        },
+        {
+            "id": 27,
+            "group": "RELATION",
+            "source": 52,
+            "target": 53,
+            "news": "Micromax plans to sell stake to Alibaba"
+        },
+        {
+            "id": 1490,
+            "group": "BASED_IN",
+            "source": 52,
+            "target": 1635
+        },
+        {
+            "id": 1196,
+            "group": "BASED_IN",
+            "source": 53,
+            "target": 1656
+        },
+        {
+            "id": 225,
+            "group": "RELATION",
+            "source": 218,
+            "target": 414,
+            "news": "Mindtree completes Magnet 360 acquisition"
+        },
+        {
+            "id": 1200,
+            "group": "BASED_IN",
+            "source": 218,
+            "target": 1635
+        },
+        {
+            "id": 1800,
+            "group": "BASED_IN",
+            "source": 414,
+            "target": 1646
+        },
+        {
+            "id": 117,
+            "group": "RELATION",
+            "source": 218,
+            "target": 219,
+            "news": "Mindtree to acquire Bluefin Solutions"
+        },
+        {
+            "id": 1852,
+            "group": "BASED_IN",
+            "source": 219,
+            "target": 1635
+        },
+        {
+            "id": 175,
+            "group": "RELATION",
+            "source": 144,
+            "target": 321,
+            "news": "Strides Arcolab buys 7 brands from Johnson & Johnson; acquires majority stake in Medispan"
+        },
+        {
+            "id": 910,
+            "group": "BASED_IN",
+            "source": 144,
+            "target": 1635
+        },
+        {
+            "id": 1652,
+            "group": "BASED_IN",
+            "source": 321,
+            "target": 1636
+        },
+        {
+            "id": 78,
+            "group": "RELATION",
+            "source": 144,
+            "target": 145,
+            "news": "Strides Arcolab to buy Aspens generic pharma"
+        },
+        {
+            "id": 1466,
+            "group": "BASED_IN",
+            "source": 145,
+            "target": 1661
+        },
+        {
+            "id": 301,
+            "group": "RELATION",
+            "source": 548,
+            "target": 549,
+            "news": "Pincon Spirit signs pact to acquire Bacchus Enterprises"
+        },
+        {
+            "id": 1028,
+            "group": "BASED_IN",
+            "source": 548,
+            "target": 1635
+        },
+        {
+            "id": 1608,
+            "group": "BASED_IN",
+            "source": 549,
+            "target": 1635
+        },
+        {
+            "id": 192,
+            "group": "RELATION",
+            "source": 58,
+            "target": 351,
+            "news": "Flipkart in talks to acquire stake in MapmyIndia: Reports"
+        },
+        {
+            "id": 930,
+            "group": "BASED_IN",
+            "source": 58,
+            "target": 1635
+        },
+        {
+            "id": 1836,
+            "group": "BASED_IN",
+            "source": 351,
+            "target": 1636
+        },
+        {
+            "id": 30,
+            "group": "RELATION",
+            "source": 58,
+            "target": 59,
+            "news": "Flipkart acquires AdIQuity"
+        },
+        {
+            "id": 1493,
+            "group": "BASED_IN",
+            "source": 59,
+            "target": 1636
+        },
+        {
+            "id": 705,
+            "group": "RELATION",
+            "source": 1285,
+            "target": 1286,
+            "news": "Mahindra & Mahindra to acquire 100% of Mahindra two wheelers unit."
+        },
+        {
+            "id": 1041,
+            "group": "BASED_IN",
+            "source": 1285,
+            "target": 1635
+        },
+        {
+            "id": 1621,
+            "group": "BASED_IN",
+            "source": 1286,
+            "target": 1635
+        },
+        {
+            "id": 352,
+            "group": "RELATION",
+            "source": 642,
+            "target": 643,
+            "news": "Marico acquires South Africas leading hair styling business- Isoplus"
+        },
+        {
+            "id": 1146,
+            "group": "BASED_IN",
+            "source": 642,
+            "target": 1635
+        },
+        {
+            "id": 1732,
+            "group": "BASED_IN",
+            "source": 643,
+            "target": 1635
+        },
+        {
+            "id": 708,
+            "group": "RELATION",
+            "source": 1291,
+            "target": 1292,
+            "news": "Cox & Kings acquires LateRooms from TUI Group"
+        },
+        {
+            "id": 1071,
+            "group": "BASED_IN",
+            "source": 1291,
+            "target": 1635
+        },
+        {
+            "id": 1654,
+            "group": "BASED_IN",
+            "source": 1292,
+            "target": 1649
+        },
+        {
+            "id": 32,
+            "group": "RELATION",
+            "source": 62,
+            "target": 63,
+            "news": "Star India acquires Screen from the Indian Express Group"
+        },
+        {
+            "id": 929,
+            "group": "BASED_IN",
+            "source": 62,
+            "target": 1635
+        },
+        {
+            "id": 1492,
+            "group": "BASED_IN",
+            "source": 63,
+            "target": 1635
+        },
+        {
+            "id": 115,
+            "group": "RELATION",
+            "source": 214,
+            "target": 215,
+            "news": "Thomas Cook says Bombay HC sanctioned merger proposal with Sterling Holiday"
+        },
+        {
+            "id": 1245,
+            "group": "BASED_IN",
+            "source": 214,
+            "target": 1635
+        },
+        {
+            "id": 1854,
+            "group": "BASED_IN",
+            "source": 215,
+            "target": 1635
+        },
+        {
+            "id": 184,
+            "group": "RELATION",
+            "source": 214,
+            "target": 338,
+            "news": "Thomas Cook India completes acquisition of Kuoni Travel (China)"
+        },
+        {
+            "id": 1826,
+            "group": "BASED_IN",
+            "source": 338,
+            "target": 1638
+        },
+        {
+            "id": 199,
+            "group": "RELATION",
+            "source": 364,
+            "target": 365,
+            "news": "Meragrocer.com! Spencers Retail acquires Omnipresent Retail"
+        },
+        {
+            "id": 1217,
+            "group": "BASED_IN",
+            "source": 364,
+            "target": 1635
+        },
+        {
+            "id": 1818,
+            "group": "BASED_IN",
+            "source": 365,
+            "target": 1635
+        },
+        {
+            "id": 11,
+            "group": "RELATION",
+            "source": 20,
+            "target": 21,
+            "news": "MRF in advance talks to buy Kesorams tyre unit"
+        },
+        {
+            "id": 943,
+            "group": "BASED_IN",
+            "source": 20,
+            "target": 1635
+        },
+        {
+            "id": 1508,
+            "group": "BASED_IN",
+            "source": 21,
+            "target": 1635
+        },
+        {
+            "id": 325,
+            "group": "RELATION",
+            "source": 594,
+            "target": 595,
+            "news": "Claris Lifesciences sells injectables unit to Baxter"
+        },
+        {
+            "id": 1151,
+            "group": "BASED_IN",
+            "source": 594,
+            "target": 1635
+        },
+        {
+            "id": 1736,
+            "group": "BASED_IN",
+            "source": 595,
+            "target": 1635
+        },
+        {
+            "id": 318,
+            "group": "RELATION",
+            "source": 581,
+            "target": 582,
+            "news": "Airtel and Axiata announce completion of merger in Bangladesh"
+        },
+        {
+            "id": 1166,
+            "group": "BASED_IN",
+            "source": 581,
+            "target": 1635
+        },
+        {
+            "id": 1761,
+            "group": "BASED_IN",
+            "source": 582,
+            "target": 1636
+        },
+        {
+            "id": 336,
+            "group": "RELATION",
+            "source": 613,
+            "target": 614,
+            "news": "Quick Heal acquires shares of Smartalyse Technologies"
+        },
+        {
+            "id": 1159,
+            "group": "BASED_IN",
+            "source": 613,
+            "target": 1635
+        },
+        {
+            "id": 1748,
+            "group": "BASED_IN",
+            "source": 614,
+            "target": 1635
+        },
+        {
+            "id": 219,
+            "group": "RELATION",
+            "source": 403,
+            "target": 404,
+            "news": "Camlin Fine in pact to acquire 65% stake in Mexican firm Dresen Quimica"
+        },
+        {
+            "id": 1205,
+            "group": "BASED_IN",
+            "source": 403,
+            "target": 1635
+        },
+        {
+            "id": 1804,
+            "group": "BASED_IN",
+            "source": 404,
+            "target": 1635
+        },
+        {
+            "id": 25,
+            "group": "RELATION",
+            "source": 48,
+            "target": 49,
+            "news": "DIAL to sell 26% stake in Delhi Cargo Service"
+        },
+        {
+            "id": 939,
+            "group": "BASED_IN",
+            "source": 48,
+            "target": 1635
+        },
+        {
+            "id": 1502,
+            "group": "BASED_IN",
+            "source": 49,
+            "target": 1635
+        },
+        {
+            "id": 136,
+            "group": "RELATION",
+            "source": 251,
+            "target": 252,
+            "news": "Carnival buys Leela Infopark in Thiruvananthapuram"
+        },
+        {
+            "id": 1238,
+            "group": "BASED_IN",
+            "source": 251,
+            "target": 1635
+        },
+        {
+            "id": 1841,
+            "group": "BASED_IN",
+            "source": 252,
+            "target": 1635
+        },
+        {
+            "id": 747,
+            "group": "RELATION",
+            "source": 1361,
+            "target": 1362,
+            "news": "UBS Chairman Explores Merger With Credit Suisse"
+        },
+        {
+            "id": 1316,
+            "group": "BASED_IN",
+            "source": 1361,
+            "target": 1635
+        },
+        {
+            "id": 1942,
+            "group": "BASED_IN",
+            "source": 1362,
+            "target": 1638
+        },
+        {
+            "id": 64,
+            "group": "RELATION",
+            "source": 119,
+            "target": 120,
+            "news": "Road to Future: Bharti Retail merges with Future Retail"
+        },
+        {
+            "id": 919,
+            "group": "BASED_IN",
+            "source": 119,
+            "target": 1635
+        },
+        {
+            "id": 1168,
+            "group": "BASED_IN",
+            "source": 120,
+            "target": 1635
+        },
+        {
+            "id": 29,
+            "group": "RELATION",
+            "source": 56,
+            "target": 57,
+            "news": "Reliance Infra acquires Pipavav Defence"
+        },
+        {
+            "id": 931,
+            "group": "BASED_IN",
+            "source": 56,
+            "target": 1635
+        },
+        {
+            "id": 228,
+            "group": "RELATION",
+            "source": 243,
+            "target": 419,
+            "news": "Yes Bank acquires 5% stake in proxy advisory firm IiAS"
+        },
+        {
+            "id": 1053,
+            "group": "BASED_IN",
+            "source": 243,
+            "target": 1635
+        },
+        {
+            "id": 1637,
+            "group": "BASED_IN",
+            "source": 419,
+            "target": 1635
+        },
+        {
+            "id": 132,
+            "group": "RELATION",
+            "source": 243,
+            "target": 244,
+            "news": "Yes Bank MD Rana Kapoors relative acquires stake in iOrderFresh"
+        },
+        {
+            "id": 1845,
+            "group": "BASED_IN",
+            "source": 244,
+            "target": 1652
+        },
+        {
+            "id": 31,
+            "group": "RELATION",
+            "source": 60,
+            "target": 61,
+            "news": "IDBI Bank to sell stake in NSE in next fiscal"
+        },
+        {
+            "id": 1104,
+            "group": "BASED_IN",
+            "source": 60,
+            "target": 1635
+        },
+        {
+            "id": 1691,
+            "group": "BASED_IN",
+            "source": 61,
+            "target": 1635
+        },
+        {
+            "id": 124,
+            "group": "RELATION",
+            "source": 230,
+            "target": 231,
+            "news": "IndusInd Bank to acquire RBSs Diamond & Jewellery Financing business in India"
+        },
+        {
+            "id": 1100,
+            "group": "BASED_IN",
+            "source": 230,
+            "target": 1635
+        },
+        {
+            "id": 1687,
+            "group": "BASED_IN",
+            "source": 231,
+            "target": 1635
+        },
+        {
+            "id": 247,
+            "group": "RELATION",
+            "source": 452,
+            "target": 453,
+            "news": "Acrysil acquired additional 13% equity in UK-based Homestyle Products"
+        },
+        {
+            "id": 1046,
+            "group": "BASED_IN",
+            "source": 452,
+            "target": 1635
+        },
+        {
+            "id": 1629,
+            "group": "BASED_IN",
+            "source": 453,
+            "target": 1638
+        },
+        {
+            "id": 131,
+            "group": "RELATION",
+            "source": 26,
+            "target": 242,
+            "news": "Zomato acquires Urbanspoon"
+        },
+        {
+            "id": 921,
+            "group": "BASED_IN",
+            "source": 26,
+            "target": 1635
+        },
+        {
+            "id": 1509,
+            "group": "BASED_IN",
+            "source": 242,
+            "target": 1635
+        },
+        {
+            "id": 52,
+            "group": "RELATION",
+            "source": 26,
+            "target": 97,
+            "news": "Zomato buys MaplePOS"
+        },
+        {
+            "id": 1479,
+            "group": "BASED_IN",
+            "source": 97,
+            "target": 1635
+        },
+        {
+            "id": 14,
+            "group": "RELATION",
+            "source": 26,
+            "target": 27,
+            "news": "Zomato acquires Turkey based Mekanist"
+        },
+        {
+            "id": 1506,
+            "group": "BASED_IN",
+            "source": 27,
+            "target": 1635
+        },
+        {
+            "id": 166,
+            "group": "RELATION",
+            "source": 304,
+            "target": 305,
+            "news": "Mebelkart acquires 53central.com"
+        },
+        {
+            "id": 1228,
+            "group": "BASED_IN",
+            "source": 304,
+            "target": 1635
+        },
+        {
+            "id": 1831,
+            "group": "BASED_IN",
+            "source": 305,
+            "target": 1664
+        },
+        {
+            "id": 374,
+            "group": "RELATION",
+            "source": 677,
+            "target": 678,
+            "news": "Adani Transmission takes over HPTSL"
+        },
+        {
+            "id": 1149,
+            "group": "BASED_IN",
+            "source": 677,
+            "target": 1635
+        },
+        {
+            "id": 1735,
+            "group": "BASED_IN",
+            "source": 678,
+            "target": 1635
         }
     ]
 }

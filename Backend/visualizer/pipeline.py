@@ -79,12 +79,14 @@ def query_selector(question):
     for a in filter(lambda w: w.ent_type_ == "BIDDER_GPE", doc):
         # print(a)
         a = str(a)
+        a = a.lower()
         if condition != "":
             condition = condition + " and"
         condition = condition + " s1.name='" + a + "'"
 
     for a in filter(lambda w: w.ent_type_ == "Target_GPE", doc):
         a = str(a)
+        a = a.lower()
         if condition != "":
             condition = condition + " and"
         condition = condition + " s2.name='" + a + "'"
@@ -133,7 +135,7 @@ def NLI(request,nl_query):
     cypher_query = query_selector(nl_query)
     print(cypher_query)
     messages.success(request, "Cypher Query is:" + cypher_query)
-    conn = Neo4jConnection(uri="bolt://localhost:7687", user="pranav", pwd="12345")
+    conn = Neo4jConnection(uri="bolt://localhost:7687", user="sushant", pwd="12345")
     output = conn.query(cypher_query, db='Neo4j')
     return output
 
