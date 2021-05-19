@@ -76,6 +76,22 @@ def query_selector(question):
 
     # print(ent.text, ent.label_)
 
+    for a in filter(lambda w: w.ent_type_ == "BIDDER", doc):
+        # print(a)
+        a = str(a)
+        # a = a.lower()
+        if condition != "":
+            condition = condition + " and"
+        condition = condition + " b.name='" + a + "'"
+
+    for a in filter(lambda w: w.ent_type_ == "TARGET", doc):
+        # print(a)
+        # a = str(a)
+        # a = a.lower()
+        if condition != "":
+            condition = condition + " and"
+        condition = condition + " t.name='" + a + "'"
+
     for a in filter(lambda w: w.ent_type_ == "BIDDER_GPE", doc):
         # print(a)
         a = str(a)
