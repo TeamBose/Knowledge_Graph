@@ -1,14 +1,7 @@
 import os
-
 from django.contrib import messages
-from spacy import displacy
-import random
-import warnings
-from pathlib import Path
 import spacy
-from spacy.util import minibatch, compounding
 from neo4j import GraphDatabase
-from neo4j import __version__ as neo4j_version
 import json
 
 
@@ -58,11 +51,11 @@ def filter_spans(spans):
     return result
 
 def query_selector(question):
-    query = "Match (s1:Country)<-[r1:BASED_IN]-(b:Bidder)-[r:RELATION]->(t:Target)-[r2:BASED_IN]->(s2:Country) XAYZ XYZ return b,r,t,s1,s2,r1,r2 Limit 50"
+    query = "Match (s1:Country)<-[r1:BASED_IN]-(b:Bidder)-[r:RELATION]->(t:Target)-[r2:BASED_IN]->(s2:Country) XAYZ XYZ return b,r,t,s1,s2,r1,r2 Limit 30"
     condition = ""
     relation = ""
 
-    nlp2 = spacy.load("./static/Ques_NLP_model_2.0")
+    nlp2 = spacy.load("./staticfiles/Ques_NLP_model_2.0")
     doc = nlp2(question)
     spans = list(doc.ents)
     spans = filter_spans(spans)
@@ -70,11 +63,6 @@ def query_selector(question):
     with doc.retokenize() as retokenizer:
         for span in spans:
             retokenizer.merge(span)
-
-    # for ent in doc.ents:
-
-    # print(ent.text, ent.label_)
-
     for a in filter(lambda w: w.ent_type_ == "BIDDER", doc):
         # print(a)
         a = str(a)
@@ -150,7 +138,7 @@ def NLI(request,nl_query):
     cypher_query = query_selector(nl_query)
     print(cypher_query)
     messages.success(request, "Cypher Query is:" + cypher_query)
-    conn = Neo4jConnection(uri="bolt://localhost:7687", user="sushant", pwd="12345")
+    conn = Neo4jConnection(uri="bolt://localhost:7687", user="yogiraj", pwd="12345")
     output = conn.query(cypher_query, db='Neo4j')
     return output
 
@@ -189,7 +177,7 @@ def relation(r,gdl):
         if r.type=="RELATION":
             link = {
                 "id": r.id,
-                "group": r.type,
+                "group": r['type'],
                 "source": r.nodes[0].id,
                 "target": r.nodes[1].id,
                 "news": r['news']
@@ -237,10 +225,14 @@ def save_as_json(a):
         "links": l.links,
     }
     json_object = json.dumps(data, indent=4)
-    os.remove("./static/sample.json")
-    with open("./static/sample.json", "w") as outfile:
+    os.remove("./staticfiles/sample.json")
+    with open("./staticfiles/sample.json", "w") as outfile:
         outfile.write(json_object)
     return data
+
+
+
+
 
 def execute(request,nl_query):
     print("none")

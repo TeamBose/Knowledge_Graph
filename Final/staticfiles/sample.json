@@ -1,0 +1,989 @@
+{
+    "nodes": [
+        {
+            "id": 1285,
+            "group": "Bidder",
+            "name": "HDFC ERGO",
+            "industry": "insurance",
+            "type": "Private Limited",
+            "url": "https://en.wikipedia.org/wiki/HDFC_ERGO_General_Insurance_Company",
+            "website": "www.hdfcergo.com"
+        },
+        {
+            "id": 1286,
+            "group": "Target",
+            "name": "L&T General Insurance",
+            "industry": "insurance",
+            "type": "Private Limited",
+            "url": "https://en.wikipedia.org/wiki/HDFC_ERGO_General_Insurance_Company",
+            "website": "www.hdfcergo.com"
+        },
+        {
+            "id": 1633,
+            "group": "Country",
+            "name": "india"
+        },
+        {
+            "id": 257,
+            "group": "Bidder",
+            "name": "Housing.com",
+            "industry": "real estate",
+            "type": "of businessE-commerce Real Estate Classifieds",
+            "url": "https://en.wikipedia.org/wiki/Housing.com",
+            "website": null
+        },
+        {
+            "id": 258,
+            "group": "Target",
+            "name": "HomeBuy360",
+            "industry": "real estate",
+            "type": "of businessE-commerce Real Estate Classifieds",
+            "url": "https://en.wikipedia.org/wiki/Housing.com",
+            "website": null
+        },
+        {
+            "id": 528,
+            "group": "Bidder",
+            "name": "Polyplex Corporation",
+            "industry": "packaging",
+            "type": "Public Company",
+            "url": "https://en.wikipedia.org/wiki/Polyplex",
+            "website": "www.polyplex.com"
+        },
+        {
+            "id": 529,
+            "group": "Target",
+            "name": "Peninsula Beverages & Foods",
+            "industry": "beverage",
+            "type": "s Cola Cherry cola Cream soda Diet Energy Frozen carbonated drink Ginger ale Ginger beer Grape Ice cream float Lemon-lime drink Lemonade Orange Root beer Sports",
+            "url": "https://en.wikipedia.org/wiki/The_Coca-Cola_Company",
+            "website": "www.coca-colacompany.com"
+        },
+        {
+            "id": 1634,
+            "group": "Country",
+            "name": "united states"
+        },
+        {
+            "id": 339,
+            "group": "Bidder",
+            "name": "Talwalkars",
+            "industry": "NA",
+            "type": "Public Company",
+            "url": "https://en.wikipedia.org/wiki/Talwalkars",
+            "website": "www.talwalkars.net"
+        },
+        {
+            "id": 340,
+            "group": "Target",
+            "name": "Inshape",
+            "industry": "chemical industry",
+            "type": "Public Company",
+            "url": "https://en.wikipedia.org/wiki/Talwalkars",
+            "website": "www.talwalkars.net"
+        },
+        {
+            "id": 317,
+            "group": "Bidder",
+            "name": "Reliance Cap",
+            "industry": "insurance",
+            "type": "Public listed company",
+            "url": "https://en.wikipedia.org/wiki/Reliance_Capital",
+            "website": "www.reliancegeneral.co.in"
+        },
+        {
+            "id": 318,
+            "group": "Target",
+            "name": "Goldman Sachs",
+            "industry": "financial services",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
+            "website": "goldmansachs.com"
+        },
+        {
+            "id": 413,
+            "group": "Bidder",
+            "name": "Axis Bank",
+            "industry": "insurance financial services",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Axis_Bank",
+            "website": "www.axisbank.com"
+        },
+        {
+            "id": 92,
+            "group": "Target",
+            "name": "FreeCharge",
+            "industry": "internet",
+            "type": "of sitePrivate",
+            "url": "https://en.wikipedia.org/wiki/Freecharge",
+            "website": null
+        },
+        {
+            "id": 414,
+            "group": "Target",
+            "name": "Max Life Insurance",
+            "industry": "financial services and insurance",
+            "type": "Public Company",
+            "url": "https://en.wikipedia.org/wiki/Max_Life_Insurance",
+            "website": "www.maxlifeinsurance.com"
+        },
+        {
+            "id": 415,
+            "group": "Bidder",
+            "name": "Persistent",
+            "industry": "edtech distance education",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Persistent",
+            "website": "www.toppr.com"
+        },
+        {
+            "id": 416,
+            "group": "Target",
+            "name": "Citrix CloudPlatform",
+            "industry": "computer software",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Citrix_Cloud",
+            "website": "www.citrix.com/products/citrix-cloud"
+        },
+        {
+            "id": 1644,
+            "group": "Country",
+            "name": "australia"
+        },
+        {
+            "id": 458,
+            "group": "Bidder",
+            "name": "Tata Power",
+            "industry": "electric utility",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Tata_Power",
+            "website": "www.tatapower.com"
+        },
+        {
+            "id": 459,
+            "group": "Target",
+            "name": "Welspun Renewables Energy Private Ltd",
+            "industry": "financial services",
+            "type": "Private company",
+            "url": "https://en.wikipedia.org/wiki/Welspun_Energy",
+            "website": "www.welspunenergy.com"
+        },
+        {
+            "id": 460,
+            "group": "Target",
+            "name": "Welspun Renewables Energy",
+            "industry": "motorcycle",
+            "type": "Private company",
+            "url": "https://en.wikipedia.org/wiki/Welspun_Energy",
+            "website": "www.welspunenergy.com"
+        },
+        {
+            "id": 67,
+            "group": "Bidder",
+            "name": "Bharti Airtel",
+            "industry": "telecommunication",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Bharti_Airtel",
+            "website": "www.airtel.com"
+        },
+        {
+            "id": 650,
+            "group": "Target",
+            "name": "Tikona",
+            "industry": "consumer electronics",
+            "type": "Fortress",
+            "url": "https://en.wikipedia.org/wiki/Tikona",
+            "website": null
+        },
+        {
+            "id": 1655,
+            "group": "Country",
+            "name": "china"
+        },
+        {
+            "id": 263,
+            "group": "Target",
+            "name": "Augere Wireless Broadband",
+            "industry": "telecommunication",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Bharti_Airtel",
+            "website": "www.airtel.com"
+        },
+        {
+            "id": 137,
+            "group": "Target",
+            "name": "Augere Wireless",
+            "industry": "telecommunication",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Bharti_Airtel",
+            "website": "www.airtel.com"
+        },
+        {
+            "id": 72,
+            "group": "Bidder",
+            "name": "IGL",
+            "industry": "natural gas",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Indraprastha_Gas",
+            "website": "iglonline.net"
+        },
+        {
+            "id": 211,
+            "group": "Target",
+            "name": "Maha Natural Gas",
+            "industry": "natural gas",
+            "type": "[public sector undertaking]",
+            "url": "https://en.wikipedia.org/wiki/Mahanagar_Gas",
+            "website": "www.mahanagargas.com"
+        },
+        {
+            "id": 73,
+            "group": "Target",
+            "name": "MNGL",
+            "industry": "natural gas",
+            "type": "[public sector undertaking]",
+            "url": "https://en.wikipedia.org/wiki/Mahanagar_Gas",
+            "website": "www.mahanagargas.com"
+        },
+        {
+            "id": 20,
+            "group": "Bidder",
+            "name": "Emami",
+            "industry": "conglomerate",
+            "type": "private",
+            "url": "https://en.wikipedia.org/wiki/Emami",
+            "website": "www.emamigroup.com"
+        },
+        {
+            "id": 21,
+            "group": "Target",
+            "name": "Fravin Pty",
+            "industry": "online food ordering",
+            "type": "of businessPrivate",
+            "url": "https://en.wikipedia.org/wiki/Proprietary_company",
+            "website": null
+        },
+        {
+            "id": 212,
+            "group": "Bidder",
+            "name": "Thomas Cook",
+            "industry": "news media",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Thomas_Cook",
+            "website": "www.zeemedia.in"
+        },
+        {
+            "id": 336,
+            "group": "Target",
+            "name": "Kuoni Travel",
+            "industry": "travel tourism",
+            "type": "Aktiengesellschaft",
+            "url": "https://en.wikipedia.org/wiki/Kuoni_Travel",
+            "website": "www.kuoni.com"
+        },
+        {
+            "id": 1636,
+            "group": "Country",
+            "name": "switzerland"
+        },
+        {
+            "id": 226,
+            "group": "Bidder",
+            "name": "Rajesh Exports",
+            "industry": "mining  refining  retail",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Rajesh_Exports",
+            "website": "www.rajeshindia.com"
+        },
+        {
+            "id": 227,
+            "group": "Target",
+            "name": "Valcambi",
+            "industry": "refining",
+            "type": "S.A. (corporation)",
+            "url": "https://en.wikipedia.org/wiki/Valcambi",
+            "website": "www.valcambi.com"
+        },
+        {
+            "id": 410,
+            "group": "Bidder",
+            "name": "Housejoy",
+            "industry": "internet",
+            "type": "of sitePrivate",
+            "url": "https://en.wikipedia.org/wiki/Housejoy",
+            "website": null
+        },
+        {
+            "id": 411,
+            "group": "Target",
+            "name": "Orobind",
+            "industry": "information technology",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Brillio",
+            "website": "https://www.brillio.com"
+        },
+        {
+            "id": 144,
+            "group": "Bidder",
+            "name": "Cadila Healthcare",
+            "industry": "pharmaceutical",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Cadila_Healthcare",
+            "website": "www.zyduscadila.com"
+        },
+        {
+            "id": 145,
+            "group": "Target",
+            "name": "Claris Lifesciences",
+            "industry": "chemical industry",
+            "type": "Public (JSE: APN)JSE Limited",
+            "url": "https://www.clarislifesciences.com/",
+            "website": "www.aspenpharma.com"
+        },
+        {
+            "id": 1659,
+            "group": "Country",
+            "name": "south africa"
+        },
+        {
+            "id": 539,
+            "group": "Bidder",
+            "name": "NIIT",
+            "industry": "education",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Niit",
+            "website": "niit.com"
+        },
+        {
+            "id": 540,
+            "group": "Target",
+            "name": "EdTech",
+            "industry": "medical",
+            "type": "s of institutions By subject Agricultural Art Bilingual Business Chemistry Computer science Design Economics Engineering Environmental Euthenics Health Language Legal Mathematics Medical Military Music Nursing Peace Performing arts Philosophy Physical Physics Reading Religious Science Sex Teacher Technology Values Vocational More... Alternative Autodidacticism Education reform Gifted education Homeschooling Religious education Special education More... Wikimedia Books Definitions Images Learning resources News Quotes Texts",
+            "url": "https://en.wikipedia.org/wiki/Edtech",
+            "website": "www.agilent.com"
+        },
+        {
+            "id": 1651,
+            "group": "Country",
+            "name": "jersey"
+        },
+        {
+            "id": 54,
+            "group": "Bidder",
+            "name": "Reliance Infra",
+            "industry": "solar energy",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Reliance_Infra",
+            "website": "www.rinfra.com"
+        },
+        {
+            "id": 55,
+            "group": "Target",
+            "name": "Pipavav Defence",
+            "industry": "chemical industry",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Reliance_Naval_and_Engineering_Limited",
+            "website": "www.rnaval.co.in"
+        },
+        {
+            "id": 618,
+            "group": "Bidder",
+            "name": "V-Guard",
+            "industry": "NA",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/V-Guard",
+            "website": "www.vguard.in"
+        },
+        {
+            "id": 619,
+            "group": "Target",
+            "name": "GUTS",
+            "industry": "consumer goods",
+            "type": "Public company (BSE:531642)(NSE:MARICO)",
+            "url": "https://en.wikipedia.org/wiki/Guts",
+            "website": "www.marico.com"
+        },
+        {
+            "id": 251,
+            "group": "Bidder",
+            "name": "TVS Logistics",
+            "industry": "conglomerate",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/TVS_Group",
+            "website": "www.lyondellbasell.com"
+        },
+        {
+            "id": 252,
+            "group": "Target",
+            "name": "DIESL",
+            "industry": "engineering",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Greaves_Cotton",
+            "website": "www.airtel.com"
+        },
+        {
+            "id": 56,
+            "group": "Bidder",
+            "name": "Flipkart",
+            "industry": "NA",
+            "type": "of businessPrivate",
+            "url": "https://en.wikipedia.org/wiki/Flipkart",
+            "website": "s Jabong Myntra PhonePe AppIterate Mime360 Chakpak LetsBuy TinyStep"
+        },
+        {
+            "id": 349,
+            "group": "Target",
+            "name": "MapmyIndia",
+            "industry": "application software",
+            "type": "of siteIoT Navigation Maps GIS Services",
+            "url": "https://en.wikipedia.org/wiki/MapmyIndia",
+            "website": null
+        },
+        {
+            "id": 57,
+            "group": "Target",
+            "name": "AdIQuity",
+            "industry": "economic consulting",
+            "type": "Private",
+            "url": "https://en.wikipedia.org/wiki/Aditi_Technologies",
+            "website": "aditi.com"
+        },
+        {
+            "id": 209,
+            "group": "Bidder",
+            "name": "Wipro",
+            "industry": "conglomerate",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Wipro",
+            "website": "www.wipro.com"
+        },
+        {
+            "id": 1126,
+            "group": "Target",
+            "name": "4C",
+            "industry": "financial services",
+            "type": "of sitePrivate",
+            "url": "https://en.wikipedia.org/wiki/4C",
+            "website": null
+        },
+        {
+            "id": 210,
+            "group": "Target",
+            "name": "Designit",
+            "industry": "design firm",
+            "type": "Public",
+            "url": "https://en.wikipedia.org/wiki/Designit",
+            "website": "designit.com"
+        },
+        {
+            "id": 1662,
+            "group": "Country",
+            "name": "denmark"
+        }
+    ],
+    "links": [
+        {
+            "id": 705,
+            "group": "acquire",
+            "source": 1285,
+            "target": 1286,
+            "news": "HDFC ERGO to acquire L&T General Insurance"
+        },
+        {
+            "id": 1042,
+            "group": "BASED_IN",
+            "source": 1285,
+            "target": 1633
+        },
+        {
+            "id": 1625,
+            "group": "BASED_IN",
+            "source": 1286,
+            "target": 1633
+        },
+        {
+            "id": 139,
+            "group": "acquire",
+            "source": 257,
+            "target": 258,
+            "news": "Housing.com acquires HomeBuy360 for $2mn"
+        },
+        {
+            "id": 1236,
+            "group": "BASED_IN",
+            "source": 257,
+            "target": 1633
+        },
+        {
+            "id": 1839,
+            "group": "BASED_IN",
+            "source": 258,
+            "target": 1633
+        },
+        {
+            "id": 290,
+            "group": "acquire",
+            "source": 528,
+            "target": 529,
+            "news": "Polyplex Corporation completes acquisition of Peninsula Beverages & Foods"
+        },
+        {
+            "id": 1181,
+            "group": "BASED_IN",
+            "source": 528,
+            "target": 1633
+        },
+        {
+            "id": 1774,
+            "group": "BASED_IN",
+            "source": 529,
+            "target": 1634
+        },
+        {
+            "id": 185,
+            "group": "acquire",
+            "source": 339,
+            "target": 340,
+            "news": "Shaping together! Talwalkars to acquire Inshape Health & Fitness"
+        },
+        {
+            "id": 1221,
+            "group": "BASED_IN",
+            "source": 339,
+            "target": 1633
+        },
+        {
+            "id": 1824,
+            "group": "BASED_IN",
+            "source": 340,
+            "target": 1633
+        },
+        {
+            "id": 173,
+            "group": "acquire",
+            "source": 317,
+            "target": 318,
+            "news": "Reliance Cap AMC to acquire Goldman Sachs Asset Mgmt Biz"
+        },
+        {
+            "id": 1225,
+            "group": "BASED_IN",
+            "source": 317,
+            "target": 1633
+        },
+        {
+            "id": 1056,
+            "group": "BASED_IN",
+            "source": 318,
+            "target": 1634
+        },
+        {
+            "id": 350,
+            "group": "acquire",
+            "source": 413,
+            "target": 92,
+            "news": "Axis Bank to acquire FreeCharge: Sources"
+        },
+        {
+            "id": 1054,
+            "group": "BASED_IN",
+            "source": 413,
+            "target": 1633
+        },
+        {
+            "id": 1482,
+            "group": "BASED_IN",
+            "source": 92,
+            "target": 1633
+        },
+        {
+            "id": 225,
+            "group": "acquire",
+            "source": 413,
+            "target": 414,
+            "news": "Axis Bank acquires 4.99% stake in Max Life Insurance at Rs. 95.75 crore"
+        },
+        {
+            "id": 1637,
+            "group": "BASED_IN",
+            "source": 414,
+            "target": 1634
+        },
+        {
+            "id": 226,
+            "group": "acquire",
+            "source": 415,
+            "target": 416,
+            "news": "Persistent US arm acquires Citrix CloudPlatform"
+        },
+        {
+            "id": 1198,
+            "group": "BASED_IN",
+            "source": 415,
+            "target": 1633
+        },
+        {
+            "id": 1798,
+            "group": "BASED_IN",
+            "source": 416,
+            "target": 1644
+        },
+        {
+            "id": 250,
+            "group": "acquire",
+            "source": 458,
+            "target": 459,
+            "news": "Tata Power arm acquires Welspun Renewables Energy Private Ltd"
+        },
+        {
+            "id": 1032,
+            "group": "BASED_IN",
+            "source": 458,
+            "target": 1633
+        },
+        {
+            "id": 1611,
+            "group": "BASED_IN",
+            "source": 459,
+            "target": 1633
+        },
+        {
+            "id": 251,
+            "group": "acquire",
+            "source": 458,
+            "target": 460,
+            "news": "Tata Power signs SPA to acquire Welspun Renewables Energy"
+        },
+        {
+            "id": 1624,
+            "group": "BASED_IN",
+            "source": 460,
+            "target": 1633
+        },
+        {
+            "id": 357,
+            "group": "acquire",
+            "source": 67,
+            "target": 650,
+            "news": "Bharti Airtel closes acquisition of Tikona"
+        },
+        {
+            "id": 914,
+            "group": "BASED_IN",
+            "source": 67,
+            "target": 1633
+        },
+        {
+            "id": 1730,
+            "group": "BASED_IN",
+            "source": 650,
+            "target": 1655
+        },
+        {
+            "id": 142,
+            "group": "acquire",
+            "source": 67,
+            "target": 263,
+            "news": "Bharti Airtel signs agreement to acquire 100% stake in Augere Wireless Broadband"
+        },
+        {
+            "id": 1661,
+            "group": "BASED_IN",
+            "source": 263,
+            "target": 1633
+        },
+        {
+            "id": 74,
+            "group": "acquire",
+            "source": 67,
+            "target": 137,
+            "news": "Bharti Airtel in talks to acquire Augere Wireless: Reports"
+        },
+        {
+            "id": 1471,
+            "group": "BASED_IN",
+            "source": 137,
+            "target": 1633
+        },
+        {
+            "id": 113,
+            "group": "acquire",
+            "source": 72,
+            "target": 211,
+            "news": "IGL acquires 4.75 cr shares of Maha Natural Gas at Rs.38 per share"
+        },
+        {
+            "id": 1082,
+            "group": "BASED_IN",
+            "source": 72,
+            "target": 1633
+        },
+        {
+            "id": 1667,
+            "group": "BASED_IN",
+            "source": 211,
+            "target": 1633
+        },
+        {
+            "id": 38,
+            "group": "acquire",
+            "source": 72,
+            "target": 73,
+            "news": "IGL acquires 4.75 crore shares in MNGL; up 1.6%"
+        },
+        {
+            "id": 1688,
+            "group": "BASED_IN",
+            "source": 73,
+            "target": 1633
+        },
+        {
+            "id": 11,
+            "group": "acquire",
+            "source": 20,
+            "target": 21,
+            "news": "Emami acquires controlling stake in Fravin Pty"
+        },
+        {
+            "id": 941,
+            "group": "BASED_IN",
+            "source": 20,
+            "target": 1633
+        },
+        {
+            "id": 1506,
+            "group": "BASED_IN",
+            "source": 21,
+            "target": 1633
+        },
+        {
+            "id": 183,
+            "group": "acquire",
+            "source": 212,
+            "target": 336,
+            "news": "Thomas Cook India completes acquisition of Kuoni Travel (China)"
+        },
+        {
+            "id": 1244,
+            "group": "BASED_IN",
+            "source": 212,
+            "target": 1633
+        },
+        {
+            "id": 1825,
+            "group": "BASED_IN",
+            "source": 336,
+            "target": 1636
+        },
+        {
+            "id": 122,
+            "group": "acquire",
+            "source": 226,
+            "target": 227,
+            "news": "Rajesh Exports acquires Valcambi"
+        },
+        {
+            "id": 1241,
+            "group": "BASED_IN",
+            "source": 226,
+            "target": 1633
+        },
+        {
+            "id": 1848,
+            "group": "BASED_IN",
+            "source": 227,
+            "target": 1636
+        },
+        {
+            "id": 223,
+            "group": "acquire",
+            "source": 410,
+            "target": 411,
+            "news": "Housejoy acquires At-home fitness start up Orobind"
+        },
+        {
+            "id": 1200,
+            "group": "BASED_IN",
+            "source": 410,
+            "target": 1633
+        },
+        {
+            "id": 1800,
+            "group": "BASED_IN",
+            "source": 411,
+            "target": 1634
+        },
+        {
+            "id": 78,
+            "group": "acquire",
+            "source": 144,
+            "target": 145,
+            "news": "Cadila Healthcare plans to acquire Claris Lifesciences: Reports"
+        },
+        {
+            "id": 910,
+            "group": "BASED_IN",
+            "source": 144,
+            "target": 1633
+        },
+        {
+            "id": 1149,
+            "group": "BASED_IN",
+            "source": 145,
+            "target": 1633
+        },
+        {
+            "id": 1466,
+            "group": "BASED_IN",
+            "source": 145,
+            "target": 1659
+        },
+        {
+            "id": 296,
+            "group": "acquire",
+            "source": 539,
+            "target": 540,
+            "news": "NIIT acquires the business of EdTech start-up"
+        },
+        {
+            "id": 1028,
+            "group": "BASED_IN",
+            "source": 539,
+            "target": 1633
+        },
+        {
+            "id": 2042,
+            "group": "BASED_IN",
+            "source": 540,
+            "target": 1651
+        },
+        {
+            "id": 1608,
+            "group": "BASED_IN",
+            "source": 540,
+            "target": 1633
+        },
+        {
+            "id": 28,
+            "group": "acquire",
+            "source": 54,
+            "target": 55,
+            "news": "Reliance Infra acquires Pipavav Defence"
+        },
+        {
+            "id": 930,
+            "group": "BASED_IN",
+            "source": 54,
+            "target": 1633
+        },
+        {
+            "id": 1493,
+            "group": "BASED_IN",
+            "source": 55,
+            "target": 1633
+        },
+        {
+            "id": 339,
+            "group": "acquire",
+            "source": 618,
+            "target": 619,
+            "news": "V-Guard acquires 49.43% stake in GUTS Electro-Mech"
+        },
+        {
+            "id": 1146,
+            "group": "BASED_IN",
+            "source": 618,
+            "target": 1633
+        },
+        {
+            "id": 1732,
+            "group": "BASED_IN",
+            "source": 619,
+            "target": 1633
+        },
+        {
+            "id": 136,
+            "group": "acquire",
+            "source": 251,
+            "target": 252,
+            "news": "Competition Commission approves TVS Logistics acquisition of DIESL"
+        },
+        {
+            "id": 1078,
+            "group": "BASED_IN",
+            "source": 251,
+            "target": 1633
+        },
+        {
+            "id": 1663,
+            "group": "BASED_IN",
+            "source": 252,
+            "target": 1633
+        },
+        {
+            "id": 191,
+            "group": "acquire",
+            "source": 56,
+            "target": 349,
+            "news": "Flipkart in talks to acquire stake in MapmyIndia: Reports"
+        },
+        {
+            "id": 929,
+            "group": "BASED_IN",
+            "source": 56,
+            "target": 1633
+        },
+        {
+            "id": 1835,
+            "group": "BASED_IN",
+            "source": 349,
+            "target": 1634
+        },
+        {
+            "id": 29,
+            "group": "acquire",
+            "source": 56,
+            "target": 57,
+            "news": "Flipkart acquires AdIQuity"
+        },
+        {
+            "id": 1492,
+            "group": "BASED_IN",
+            "source": 57,
+            "target": 1634
+        },
+        {
+            "id": 615,
+            "group": "acquire",
+            "source": 209,
+            "target": 1126,
+            "news": "Wipro to acquire 4C"
+        },
+        {
+            "id": 1245,
+            "group": "BASED_IN",
+            "source": 209,
+            "target": 1633
+        },
+        {
+            "id": 2015,
+            "group": "BASED_IN",
+            "source": 1126,
+            "target": 1634
+        },
+        {
+            "id": 112,
+            "group": "acquire",
+            "source": 209,
+            "target": 210,
+            "news": "Wipro to acquire design firm Designit"
+        },
+        {
+            "id": 1855,
+            "group": "BASED_IN",
+            "source": 210,
+            "target": 1662
+        }
+    ]
+}

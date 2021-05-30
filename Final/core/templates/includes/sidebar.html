@@ -1,0 +1,103 @@
+<div class="sidebar">
+    <div class="sidebar-wrapper">
+
+        <div class="logo">
+            <a target="_blank" href="https://www.creative-tim.com/product/black-dashboard-django" class="simple-text logo-mini">
+            BD
+          </a>
+            <!-- BD chya jagi logo tak @Pranav -->
+            <a target="_blank" href="https://www.creative-tim.com/product/black-dashboard-django" class="simple-text logo-normal">
+                <h2>M&A</h2>
+            </a>
+        </div>
+
+        <ul class="nav">
+            {% if request.user.is_authenticated %}
+            <!-- <li class="{% if 'index' in segment %} active {% endif %} ">
+                <a href="/">
+                    <i class="tim-icons icon-chart-pie-36"></i>
+                    <p>Dashboard</p>
+                </a>
+            </li>
+            <li class="{% if 'icons' in segment %} active {% endif %}">
+                <a href="/ui-icons.html">
+                    <i class="tim-icons icon-atom"></i>
+                    <p>Icons</p>
+                </a>
+            </li>
+            <li class="{% if 'maps' in segment %} active {% endif %}">
+                <a href="/ui-maps.html">
+                    <i class="tim-icons icon-pin"></i>
+                    <p>Maps</p>
+                </a>
+            </li>
+            <li class="{% if 'notifications' in segment %} active {% endif %}">
+                <a href="/ui-notifications.html">
+                    <i class="tim-icons icon-bell-55"></i>
+                    <p>Notifications</p>
+                </a>
+            </li>
+            <li class="{% if 'page-user' in segment %} active {% endif %}">
+                <a href="/page-user.html">
+                    <i class="tim-icons icon-single-02"></i>
+                    <p>User Profile</p>
+                </a>
+            </li>
+            <li class="{% if 'tables' in segment %} active {% endif %}">
+                <a href="/ui-tables.html">
+                    <i class="tim-icons icon-puzzle-10"></i>
+                    <p>Table List</p>
+                </a>
+            </li>
+            <li class="{% if 'typography' in segment %} active {% endif %}">
+                <a href="/ui-typography.html">
+                    <i class="tim-icons icon-align-center"></i>
+                    <p>Typography</p>
+                </a>
+            </li>
+            <li class="{% if 'rtl-support' in segment %} active {% endif %}">
+                <a href="/page-rtl-support.html">
+                    <i class="tim-icons icon-world"></i>
+                    <p>RTL Support</p>
+                </a>
+            </li>
+            <li>
+                <a href="{% url 'logout' %}">
+                    <i class="tim-icons icon-user-run"></i>
+                    <p>Logout</p>
+                </a>
+            </li> -->
+            {% else %}
+            <li class="active" id="list1">
+                <a href="#analysis" onclick="changeActive('list1')">
+                    <i class="tim-icons icon-chart-bar-32"></i>
+                    <p>Analysis</p>
+                </a>
+            </li>
+            <li id="list2">
+                <a href="#graph" onclick="changeActive('list2')">
+                    <i class="tim-icons icon-vector"></i>
+                    <p>Graph Visualization</p>
+                </a>
+            </li>
+            <li id="list3">
+                <a href="#table" onclick="changeActive('list3')">
+                    <i class="tim-icons icon-paper"></i>
+                    <p>News Observation</p>
+                </a>
+            </li>
+            {% endif %}
+
+        </ul>
+
+    </div>
+  </div>
+  <script>
+    function changeActive(list){
+
+      document.getElementById('list1').classList.remove('active');
+      document.getElementById('list2').classList.remove('active');
+      document.getElementById('list3').classList.remove('active');
+      document.getElementById(list).classList.add('active');
+    }
+  </script>
